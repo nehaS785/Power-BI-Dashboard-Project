@@ -26,4 +26,5 @@ Dashboard 1 : HR Analytics Dashboard
 - show the attrition count of job roles
 - add a slicer for Department
 
-- Dashboard Interaction 
+- Dashboard Interaction
+  - <a href="https://github.com/nehaS785/Power-BI-Dashboard-Project/blob/main/HR%20Analytics%20Dashboard.pdf">Dataset<a>
