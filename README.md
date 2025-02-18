@@ -35,7 +35,7 @@ Dashboard 3 : HR Analytics Q & A
 
 
 - Dashboard Interaction
-  - <a href="https://github.com/nehaS785/Power-BI-Dashboard-Project/blob/main/HR%20Analytics%20Dashboard.pdf">Dataset<a>
+- <a href="https://github.com/nehaS785/Power-BI-Dashboard-Project/blob/main/Hr%20Analytics%20Dashboard%20PowerBI.pbix">View Dashboard/a>
 
 ## Process:
 1. Data Collection
