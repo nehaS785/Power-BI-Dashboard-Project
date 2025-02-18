@@ -56,4 +56,9 @@ Dashboard 3 : HR Analytics Q & A
 
 - Dashboard Image
   - <a href="https://github.com/nehaS785/Power-BI-Dashboard-Project/blob/main/HR%20Analytics%20Dashboard.pdf">Dataset<a>
+  
+## Project Insights
+•	Helps HR teams make data-driven decisions.
+•	Identifies key factors contributing to employee attrition.
+•	Improves workforce planning and resource allocation.
 
