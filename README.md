@@ -9,7 +9,7 @@ Make data-driven HR decisions to reduce turnover and improve employee satisfacti
 - <a href="https://github.com/nehaS785/Power-BI-Dashboard-Project/blob/main/HR_Analytics.csv">Dataset<a>
 
 ## Questions  (KPIs) -
-# Dashboard 1 : HR Analytics Dashboard
+Dashboard 1 : HR Analytics Dashboard
 1.show the employee count
 2. show the sum of attrition count
 3. show the attrition rate 
