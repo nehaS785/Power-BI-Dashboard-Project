@@ -53,3 +53,7 @@ Dashboard 3 : HR Analytics Q & A
 5. Insights & Decision Making
 •	Identified trends in employee turnover, department performance, and workforce diversity.
 •	Provided recommendations based on data analysis.
+
+- Dashboard Image
+  - <a href="https://github.com/nehaS785/Power-BI-Dashboard-Project/blob/main/HR%20Analytics%20Dashboard.pdf">Dataset<a>
+
