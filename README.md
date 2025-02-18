@@ -38,8 +38,18 @@ Dashboard 3 : HR Analytics Q & A
   - <a href="https://github.com/nehaS785/Power-BI-Dashboard-Project/blob/main/HR%20Analytics%20Dashboard.pdf">Dataset<a>
 
 ## Process:
-Data Collection – Gathered HR data from various sources.
-Data Cleaning & Transformation – Used Power Query to clean and format data.
-Modeling – Created relationships between tables for analysis.
-Dashboard Design – Built interactive visuals for HR insights.
-Insights & Reporting – Provided key metrics on attrition, demographics, and performance.
+1. Data Collection
+•	Gathered employee data, including demographics, performance, and attrition rates.
+•	Data sources: CSV/Excel files, databases, or HR systems.
+2. Data Cleaning & Preparation
+•	Handled missing values, duplicates, and formatting issues.
+•	Standardized column names and data types for consistency.
+3. Data Analysis & Transformation
+•	Used Power Query to clean and transform data.
+•	Created calculated columns and measures using DAX.
+4. Dashboard Development
+•	Designed interactive visualizations for employee retention, demographics, performance, and more.
+•	Added slicers and filters for easy data exploration.
+5. Insights & Decision Making
+•	Identified trends in employee turnover, department performance, and workforce diversity.
+•	Provided recommendations based on data analysis.
