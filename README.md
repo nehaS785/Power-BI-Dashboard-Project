@@ -36,3 +36,10 @@ Dashboard 3 : HR Analytics Q & A
 
 - Dashboard Interaction
   - <a href="https://github.com/nehaS785/Power-BI-Dashboard-Project/blob/main/HR%20Analytics%20Dashboard.pdf">Dataset<a>
+
+## Process:
+Data Collection – Gathered HR data from various sources.
+Data Cleaning & Transformation – Used Power Query to clean and format data.
+Modeling – Created relationships between tables for analysis.
+Dashboard Design – Built interactive visuals for HR insights.
+Insights & Reporting – Provided key metrics on attrition, demographics, and performance.
