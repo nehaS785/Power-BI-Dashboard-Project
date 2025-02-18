@@ -5,3 +5,7 @@ Understand the impact of age, salary, job role, department, education, and busin
 Identify high-risk employee groups to implement retention strategies.
 Make data-driven HR decisions to reduce turnover and improve employee satisfaction.
 
+## Dataset Used - HR Analytics
+- <a href="https://github.com/nehaS785/Power-BI-Dashboard-Project/blob/main/HR_Analytics.csv">Dataset<a>
+
+
