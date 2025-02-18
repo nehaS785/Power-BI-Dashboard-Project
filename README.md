@@ -66,23 +66,22 @@ Dashboard 3 : HR Analytics Q & A
 Identifies the percentage of employees leaving the company.
 Highlights key factors contributing to attrition, such as department, job role, and experience.
 Helps HR teams take proactive steps to reduce turnover.
-Employee Demographics
 
-- Shows distribution based on age, gender, department, and job role.
+- Employee Demographics
+Shows distribution based on age, gender, department, and job role.
 Helps in diversity and inclusion analysis.
-Performance Metrics
 
-- Compares employee performance ratings across departments.
-Helps in identifying high and low performers for training and promotions.
-Compensation & Benefits
-
-- Analyzes salary distribution and employee benefits.
+- Performance Metrics
+Compares employee performance ratings across departments.
+Helps in identifying high and low performers for training and promotions
+- Compensation & Benefits
+Analyzes salary distribution and employee benefits.
 Identifies pay gaps and areas for improvement in employee compensation.
-Absenteeism & Work Hours
 
-- Tracks employee attendance and leave patterns.
+-Absenteeism & Work Hours
+Tracks employee attendance and leave patterns.
 Helps HR in workforce planning and improving productivity.
-Hiring & Retention Trends
 
--Displays hiring trends over time.
+- Hiring & Retention Trends
+Displays hiring trends over time.
 Helps in workforce planning and budgeting.
