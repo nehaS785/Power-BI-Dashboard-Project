@@ -26,4 +26,4 @@ Dashboard 1 : HR Analytics Dashboard
 - show the attrition count of job roles
 - add a slicer for Department
 
-
+- Dashboard Interaction 
