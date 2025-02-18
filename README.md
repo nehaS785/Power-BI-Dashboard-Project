@@ -10,20 +10,20 @@ Make data-driven HR decisions to reduce turnover and improve employee satisfacti
 
 ## Questions  (KPIs) -
 Dashboard 1 : HR Analytics Dashboard
-1.show the employee count
-2. show the sum of attrition count
-3. show the attrition rate 
-4. show the average age 
-5. show the average salary
-6. show the average years
-7. show the attrition of genders
-8. show the attrition by education
-9. show the attrition by age group
-10.show the proportion of count of attrition
-11. show job roles satisfied by jobs with total attrition count in matrix
-12. show the attrition by salary slab
-13. show the attrition by years at company
-14. show the attrition count of job roles
-15. add a slicer for Department
+- show the employee count
+- show the sum of attrition count
+- show the attrition rate 
+- show the average age 
+- show the average salary
+- show the average years
+- show the attrition of genders
+- show the attrition by education
+- show the attrition by age group
+- show the proportion of count of attrition
+- show job roles satisfied by jobs with total attrition count in matrix
+- show the attrition by salary slab
+- show the attrition by years at company
+- show the attrition count of job roles
+- add a slicer for Department
 
 
