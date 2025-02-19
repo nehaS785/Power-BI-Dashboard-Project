@@ -40,7 +40,7 @@ Dashboard 3 : HR Analytics Q & A
 ## Process:
 1. Data Collection
 •	Gathered employee data, including demographics, performance, and attrition rates.
-•	Data sources: CSV/Excel files, databases, or HR systems.
+•	Data sources: CSV/Excel files
 2. Data Cleaning & Preparation
 •	Handled missing values, duplicates, and formatting issues.
 •	Standardized column names and data types for consistency.
