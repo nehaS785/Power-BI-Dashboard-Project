@@ -1,4 +1,4 @@
-# HR Analytics Data analytics (Interactive Dashboard creation using Python)
+# HR Analytics Dashboard (Interactive Dashboard creation using Power BI)
 ## Project Objective
 The objective of this dashboard is to analyze and identify key drivers of employee attrition, helping HR professionals:
 Understand the impact of age, salary, job role, department, education, and business travel on attrition.
