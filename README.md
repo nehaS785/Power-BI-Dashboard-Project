@@ -33,8 +33,7 @@ Dashboard 2 : HR Analytics Attrition by Travel
   
 Dashboard 3 : HR Analytics Q & A
 
-
-- Dashboard Interaction
+## Dashboard Interaction
 - <a href="https://github.com/nehaS785/Power-BI-Dashboard-Project/blob/main/Hr%20Analytics%20Dashboard%20PowerBI.pbix">View Dashboard/a>
 
 ## Process:
